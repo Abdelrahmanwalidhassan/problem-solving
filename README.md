@@ -47,25 +47,6 @@ problem-solving/
 ## ✅ Progress Tracking
 
 | Platform   | Solved | In Progress |
-| ---------- | ------ | ----------- |
-| LeetCode   | 120+   | 🔄 Updating |
-| Codeforces | 80+    | 🔄 Updating |
-
-<!-- | AtCoder    | 20+    | 🔄 Updating   |
-| ICPC       | –      | Starting soon | -->
-
----
-
-## 🚀 Goals
-
-<!-- - Practice **data structures & algorithms** consistently -->
-<!-- - Prepare for **ICPC competitions** -->
-
-- Build a **personal archive** to track problem-solving growth
-
----
-
-<!-- ## 📌 Notes
-
-Each solution is written in **C++ / Python / JavaScript** depending on context.
-Some solutions may include extra comments or multiple approaches. -->
+|------------|--------|-------------|
+| LeetCode   | 0   | 🔄 Updating |
+| Codeforces | 0   | 🔄 Updating |
