@@ -37,7 +37,8 @@ function updateProgressTable() {
 
   let readme = fs.readFileSync(readmePath, "utf-8");
 
-  const tablePattern = /(\| Platform\s+\|.*?\| In Progress \|\n)(\|.*\n)+/s;
+  // const tablePattern = /(\| Platform\s+\|.*?\| In Progress \|\n)(\|.*\n)+/s;
+  const tablePattern = /\| Platform\s+\|.*?\| In Progress \|[\r\n]+(?:\|.*[\r\n]+)+/s;
 
   const newTable = `| Platform   | Solved | In Progress |
 |------------|--------|-------------|
