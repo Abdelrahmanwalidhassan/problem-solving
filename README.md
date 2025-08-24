@@ -48,5 +48,5 @@ problem-solving/
 
 | Platform   | Solved | In Progress |
 |------------|--------|-------------|
-| LeetCode   | 0   | 🔄 Updating |
+| LeetCode   | 1   | 🔄 Updating |
 | Codeforces | 0   | 🔄 Updating |
